@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\",
+  "WorkspaceRootPath": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|c:\\users\\qweqa\\desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38E40DB8-7768-42D5-9373-E39FEFE90BA6}|game rpg\\game rpg.csproj|solutionrelative:game rpg\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,19 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Battle.cs",
-              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Battle.cs",
+              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Battle.cs",
               "RelativeDocumentMoniker": "game rpg\\Battle.cs",
-              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Battle.cs",
+              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Battle.cs",
               "RelativeToolTip": "game rpg\\Battle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,24 +55,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Shop.cs",
-              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Shop.cs",
+              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Shop.cs",
               "RelativeDocumentMoniker": "game rpg\\Shop.cs",
-              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Shop.cs",
+              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Shop.cs",
               "RelativeToolTip": "game rpg\\Shop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwEcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T08:38:28.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ShopItem.cs",
-              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\ShopItem.cs",
+              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\ShopItem.cs",
               "RelativeDocumentMoniker": "game rpg\\ShopItem.cs",
-              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\ShopItem.cs",
+              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\ShopItem.cs",
               "RelativeToolTip": "game rpg\\ShopItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,50 +83,50 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Inventory.cs",
               "RelativeDocumentMoniker": "game rpg\\Inventory.cs",
-              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Inventory.cs",
+              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Inventory.cs",
               "RelativeToolTip": "game rpg\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwGcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T11:46:46.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Item.cs",
               "RelativeDocumentMoniker": "game rpg\\Item.cs",
-              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Item.cs",
+              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Item.cs",
               "RelativeToolTip": "game rpg\\Item.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwB4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T11:46:17.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Player.cs",
               "RelativeDocumentMoniker": "game rpg\\Player.cs",
-              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Player.cs",
+              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Player.cs",
               "RelativeToolTip": "game rpg\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T11:34:34.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Program.cs",
               "RelativeDocumentMoniker": "game rpg\\Program.cs",
-              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\cardmatch\\game rpg\\game rpg\\Program.cs",
+              "ToolTip": "C:\\Users\\qweqa\\Desktop\\\uAD50\uC721\uC6A9\\game_rpg\\game rpg\\game rpg\\Program.cs",
               "RelativeToolTip": "game rpg\\Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAUwDYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T05:26:19.461Z",
               "EditorCaption": ""
