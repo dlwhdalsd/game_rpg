@@ -8,7 +8,7 @@ namespace game_rpg
 
         static void Main(string[] args)
         {
-            CreatePlayer(); // 플레이어 초기화
+            CreatePlayer(); 
             ShowIntro();
 
             while (true)
@@ -20,7 +20,7 @@ namespace game_rpg
                 {
                     case "1":
                         player.ShowStatus();
-                        WaitForBack(); // '0' 누르기 기다림
+                        WaitForBack(); 
                         break;
                     case "2":
                         Inventory.Show(player);

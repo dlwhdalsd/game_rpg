@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qweqa\\Desktop\\교육용\\cardmatch\\game rpg\\game rpg\\game rpg.csproj",
+      "projectUniqueName": "C:\\Users\\qweqa\\Desktop\\교육용\\game_rpg\\game rpg\\game rpg\\game rpg.csproj",
       "projectName": "game rpg",
-      "projectPath": "C:\\Users\\qweqa\\Desktop\\교육용\\cardmatch\\game rpg\\game rpg\\game rpg.csproj",
+      "projectPath": "C:\\Users\\qweqa\\Desktop\\교육용\\game_rpg\\game rpg\\game rpg\\game rpg.csproj",
       "packagesPath": "C:\\Users\\qweqa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qweqa\\Desktop\\교육용\\cardmatch\\game rpg\\game rpg\\obj\\",
+      "outputPath": "C:\\Users\\qweqa\\Desktop\\교육용\\game_rpg\\game rpg\\game rpg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

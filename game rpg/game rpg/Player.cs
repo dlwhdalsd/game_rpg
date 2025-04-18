@@ -1,5 +1,4 @@
-﻿// Program.cs
-namespace game_rpg
+﻿namespace game_rpg
 {
     class Player
     {

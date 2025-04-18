@@ -20,8 +20,8 @@ namespace game_rpg
         public ItemType Type { get; }
         public bool IsEquipped { get; set; }
 
-        public string StatType { get; }   // "공격력" or "방어력"
-        public int StatValue { get; }     // 7, 5 등
+        public string StatType { get; }   
+        public int StatValue { get; }     
 
         public Item(string name, string statText, string description, ItemType type, bool isEquipped = false)
         {

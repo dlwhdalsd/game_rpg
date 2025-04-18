@@ -89,19 +89,19 @@ namespace game_rpg
 
                 if (int.TryParse(input, out int index) && index >= 1 && index <= equipableItems.Count)
                 {
-                    var selected = equipableItems[index - 1];  // index 보정 (-1)
+                    var selected = equipableItems[index - 1];  
 
-                    // 기존 장비 해제
+                    
                     foreach (var item in items)
                     {
                         if (item.Type == selected.Type && item.IsEquipped)
                             item.IsEquipped = false;
                     }
 
-                    // 새 장비 장착
+                    
                     selected.IsEquipped = true;
 
-                    // 플레이어의 장비 리스트 업데이트
+                    
                     if (!player.EquippedItems.Contains(selected))
                         player.EquippedItems.Add(selected);
 

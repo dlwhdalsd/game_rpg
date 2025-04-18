@@ -69,7 +69,7 @@ namespace game_rpg
                 {
                     player.Gold -= item.Price;
 
-                    // 새 Item 객체로 인벤토리에 추가 (ShopItem이 아닌)
+                    
                     Inventory.Add(new Item(item.Name, item.StatText, item.Description, item.Type));
                     Console.WriteLine($"{item.Name}을(를) 구매했습니다!");
                 }
